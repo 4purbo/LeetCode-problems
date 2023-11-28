@@ -1,0 +1,8 @@
+- Start
+- take input of [nums] and [target] and make [result]
+- Take each element from [nums] and add to the rest of the elements of the list and
+- check if (x+y == [target])
+	{yes}• add indexes [x] and [y] to the [result] array
+	 {no}• continue;
+- return [result];
+- End
